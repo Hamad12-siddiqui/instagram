@@ -57,8 +57,8 @@ function App() {
             <label className="block text-gray-700 mb-1" htmlFor="password">Password</label>
             <input
               type="Password"
-              name="pass"
-              id="pass"
+              name="password"
+              id="password"
               placeholder="Password"
               value={formData.password}
               onChange={handleChange}
