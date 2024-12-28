@@ -54,11 +54,11 @@ function App() {
             />
           </div>
           <div>
-            <label className="block text-gray-700 mb-1" htmlFor="password">Last Name</label>
+            <label className="block text-gray-700 mb-1" htmlFor="password">Password</label>
             <input
-              type="text"
-              name="lname"
-              id="lname"
+              type="Password"
+              name="pass"
+              id="pass"
               placeholder="Password"
               value={formData.password}
               onChange={handleChange}
