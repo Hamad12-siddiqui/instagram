@@ -69,7 +69,7 @@ function App() {
             type="submit"
             className="w-full bg-blue-500 text-white py-2 rounded-md hover:bg-blue-600 transition duration-200"
           >
-            Log In
+            Submitt
           </button>
         </form>
         <div className="flex items-center justify-between my-4">
@@ -78,12 +78,7 @@ function App() {
           <div className="w-1/3 border-t border-gray-300"></div>
         </div>
         <div className="flex justify-center">
-         
-        </div>
-        <p className="text-sm text-center text-gray-500 mt-4">
-          Forgot your password?
-        </p>
-      </div>
+     
       
     </div>
   );
