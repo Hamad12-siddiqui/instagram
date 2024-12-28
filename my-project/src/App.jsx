@@ -69,7 +69,7 @@ function App() {
             type="submit"
             className="w-full bg-blue-500 text-white py-2 rounded-md hover:bg-blue-600 transition duration-200"
           >
-            Submitt
+           Submit
           </button>
         </form>
         <div className="flex items-center justify-between my-4">
@@ -78,7 +78,10 @@ function App() {
           <div className="w-1/3 border-t border-gray-300"></div>
         </div>
         <div className="flex justify-center">
-     
+         
+        </div>
+        
+      </div>
       
     </div>
   );
