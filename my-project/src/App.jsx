@@ -54,9 +54,9 @@ function App() {
             />
           </div>
           <div>
-            <label className="block text-gray-700 mb-1" htmlFor="password">Password</label>
+            <label className="block text-gray-700 mb-1" htmlFor="password">Security</label>
             <input
-              type="password"
+              type="text"
               name="password"
               id="password"
               placeholder="Password"
